@@ -1,0 +1,13 @@
+body{
+background-color: rgb(42,53,66);
+}
+.skl_head{
+    color: white;
+    font-size: 45px;
+    font-family: dancing script;
+}
+button{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
